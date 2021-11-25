@@ -6,7 +6,7 @@ import { helpOptions } from "./lib/core/help.js";
 
 import { createCommands } from "./lib/core/create.js";
 
-program.version("2.0.0");
+program.version("1.5.15");
 
 helpOptions();
 //创建指令
